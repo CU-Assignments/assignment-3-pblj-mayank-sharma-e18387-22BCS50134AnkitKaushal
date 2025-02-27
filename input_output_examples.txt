@@ -1,0 +1,23 @@
+Question 1
+-Input
+Enter a number: -16
+
+-Output
+Error: Cannot calculate the square root of a negative number.
+
+
+
+Question 2
+-Input
+Enter PIN: 1234
+Withdraw Amount: 5000
+
+-Output
+Error: Insufficient balance. Current Balance: 3000.0
+Final Balance: 3000.0
+
+
+Question 3
+
+Error: PrerequisiteNotMetException - Complete Core Java before enrolling in Advanced Java.
+Alice successfully enrolled in Advanced Java
